@@ -13,8 +13,18 @@ This repository contains my solutions to various LeetCode problems, implemented 
 | ------- |
 | [0066-plus-one](https://github.com/saurabhssahu/leetcode/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabhssahu/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhssahu/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabhssahu/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhssahu/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Sorting
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhssahu/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhssahu/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
