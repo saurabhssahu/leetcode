@@ -9,7 +9,6 @@ class Solution {
             if (d != (arr[i+1]-arr[i])) {
                 return false;
             }
-            continue;
         }
 
         return true;
