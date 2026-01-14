@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems, implemented 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saurabhssahu/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/saurabhssahu/leetcode/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabhssahu/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/saurabhssahu/leetcode/tree/master/1390-four-divisors) |
@@ -20,6 +21,7 @@ This repository contains my solutions to various LeetCode problems, implemented 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saurabhssahu/leetcode/tree/master/0001-two-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabhssahu/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhssahu/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Sorting
