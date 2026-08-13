@@ -20,17 +20,20 @@ This repository contains my solutions to various LeetCode problems, implemented 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saurabhssahu/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhssahu/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhssahu/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurabhssahu/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhssahu/leetcode/tree/master/0001-two-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabhssahu/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhssahu/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurabhssahu/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saurabhssahu/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhssahu/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurabhssahu/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
 | ------- |
