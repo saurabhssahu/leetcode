@@ -6,6 +6,7 @@ This repository contains my solutions to various LeetCode problems, implemented 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/saurabhssahu/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saurabhssahu/leetcode/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/saurabhssahu/leetcode/tree/master/1390-four-divisors) |
 | [2235-add-two-integers](https://github.com/saurabhssahu/leetcode/tree/master/2235-add-two-integers) |
