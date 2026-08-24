@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems, implemented 
 | [0066-plus-one](https://github.com/saurabhssahu/leetcode/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/saurabhssahu/leetcode/tree/master/1390-four-divisors) |
 | [2235-add-two-integers](https://github.com/saurabhssahu/leetcode/tree/master/2235-add-two-integers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saurabhssahu/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
